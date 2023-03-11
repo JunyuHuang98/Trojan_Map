@@ -1,5 +1,6 @@
 # Trojan Map
 This project is based on the final project of EE538(Computing Principles for Electrical Engineers) in spring 2022 at University of Southern California
+
 Author: Junyu Huang
 
 # Overview
